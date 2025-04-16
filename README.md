@@ -6,6 +6,7 @@ I'm Kevin, a data engineer with passion building scalable and efficient data sol
 -----
 ### About Me
 - 💼 Working as a Data Engineer at SeaMoney, building impactful data solutions.
+- 🎓 2022 Graduate with Bachelors of Computer Science from BINUS University.
 - 🔥 Expertise in designing and implementing scalable data pipeline.
 - ❤️ Interest in **Data Engineering**, **Big Data**, **Software Engineering**, **Cloud Computing** and **ML Engineering**.
 - 🔎 Currently exploring Data Lakehouse solutions, **Apache Iceberg** 🥶 and learning **React.JS**.
