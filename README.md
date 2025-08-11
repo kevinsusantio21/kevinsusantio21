@@ -5,7 +5,7 @@ I'm Kevin, a data engineer with passion building scalable and efficient data sol
 
 -----
 ### About Me
-- 💼 Working as a Data Engineer at SeaMoney, leading digital financial services provider in Southeast Asia.
+- 💼 Working as a Data Engineer at Bowtie Life Insurance Company, Hong Kong's very first virtual insurer.
 - 🎓 Bachelor of Computer Science, BINUS University - 2022
 - 🔥 Expertise in designing and implementing scalable data pipeline.
 - ❤️ Interest in **Data Engineering**, **Big Data**, **Software Engineering**, **Cloud Computing** and **ML Engineering**.
