@@ -14,9 +14,9 @@ I'm Kevin, a data engineer with passion building scalable and efficient data sol
 -----
 ### Tech Stacks
 - **Programming Languages**: Python, Java, SQL, C, C++, C#, Go, PHP, JavaScript, R
-- **Data Engineering & Processing**: Airflow, Prefect, Spark, Presto, Kafka, Flink
-- **Databases & Storage**: MySQL, PostgreSQL, SQL Server, BigQuery, ClickHouse, Hive, HDFS
-- **Cloud & DevOps**: Google Cloud Platform, Amazon S3, Git, Docker
+- **Data Engineering & Processing**: Airflow, Prefect, Dagster, DBT, Spark, Presto, Kafka, Flink
+- **Databases & Storage**: MySQL, PostgreSQL, SQL Server, BigQuery, ClickHouse, Hive, HDFS, S3
+- **Cloud & DevOps**: Google Cloud Platform, AWS, Git, Docker
 - **Data Visualization**: Looker, Metabase
 - **Software Development**: Shell Scripting, HTML, CSS, Laravel, ASP.NET, FastAPI, Gin, Java Native API, Android
 -----
